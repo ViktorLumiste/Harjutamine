@@ -1,3 +1,10 @@
 GitHub on versioonihalduse veebirakendus, arendusgruppide jaoks, mida saab ka välis rakendustega integreerida.
 
 Saan edaspidi kasutada GitHubi läbi nende veebirakendust/GitHub Desktop rakendust. Saan ka integreerida GitHubi tuntuvate IDE-dega, nagu Webstorm, Eclipse, visual studio jne.
+
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. 
+GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris. 2009. aasta algusest muutus GitHub aina populaarsemaks, ning sama aasta 24. veebruaril teatasid GitHubi loojad, et esimese aasta jooksul kogunes GitHubi 46 000 koodivaramut, millest koguni 17 000 olid loodud 2009. aasta alguses. 
+Sama aasta 5. juulil teatati, et GitHubi on registreerunud üle 100 000 kasutaja. 27. juuliks oli GitHubi kogunenud juba 90 000 unikaalset koodivaramut.
+
+4. juunil 2018 teatas Microsoft soovist osta GitHub 7,5 miljardi dollari eest, ning tehing sooritati 26. oktoobril 2018. Microsoft määras GitHubi uueks tegevdirektoriks Xamarini asutaja Nat Friedmani. 
+Enne GitHubi ostmist oli Microsoft hakanud teenust aina rohkem kasutama, kasutades seda enda avatud lähtekoodiga tarkvara, nagu PowerShell, hoiustamiseks.
