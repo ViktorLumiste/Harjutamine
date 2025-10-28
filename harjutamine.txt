@@ -1,1 +1,3 @@
 GitHub on versioonihalduse veebirakendus, arendusgruppide jaoks, mida saab ka välis rakendustega integreerida.
+
+Saan edaspidi kasutada GitHubi läbi nende veebirakendust/GitHub Desktop rakendust. Saan ka integreerida GitHubi tuntuvate IDE-dega, nagu Webstorm, Eclipse, visual studio jne.
