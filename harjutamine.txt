@@ -1,0 +1,1 @@
+GitHub on versioonihalduse veebirakendus, arendusgruppide jaoks, mida saab ka välis rakendustega integreerida.
